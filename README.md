@@ -1,6 +1,6 @@
 ### Olá, eu sou o Jonathan  🤙
 
-<p>Um entusiasta do desenvolvimento front-end de 25 anos, apaixonado por criar experiências digitais envolventes e acessíveis.</p>
+<p>Um entusiasta do desenvolvimento front-end, apaixonado por criar experiências digitais envolventes e acessíveis.</p>
 
 ### Redes sociais ✌️
 

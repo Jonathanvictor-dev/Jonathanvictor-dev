@@ -1,6 +1,6 @@
 ### Olá, eu sou o Jonathan  🤙
 
-<p>Um entusiasta do desenvolvimento front-end, apaixonado por criar experiências digitais envolventes e acessíveis.</p>
+<p>Um entusiasta do desenvolvimento web, apaixonado por criar experiências digitais envolventes e acessíveis.</p>
 
 ### Redes sociais ✌️
 
@@ -10,7 +10,7 @@
 
 <br>
 
-![Jonathanvictor-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathanvictor-dev&show_icons=true&theme=dark)
+### Tecnologias que utilizo 📈
 
 ### Tecnologias que utilizo 📈
 
@@ -18,12 +18,11 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" style="text-align: center">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" style="text-align: center">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" style="text-align: center">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" style="text-align: center">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" style="text-align: center">
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="redux" style="text-align: center">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" style="text-align: center">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" style="text-align: center">
 </div>
 
-### Próximos passos 🎯
-
-<div> 
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" style="text-align: center">
-</div>
 
